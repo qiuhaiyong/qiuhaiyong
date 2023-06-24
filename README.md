@@ -5,7 +5,7 @@
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=yellow"/>
-<a href="www.yukiha.club"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<a href="www.yukiha.club"><img src="https://img.shields.io/static/v1?label=Blog&message=YukihaBlog&color=red"/></a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuhaiyong&theme=dark&layout=compact)
